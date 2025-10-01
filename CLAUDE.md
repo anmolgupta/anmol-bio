@@ -1,0 +1,3 @@
+- don't create INLINE CSS. Use classes to define CSS and then use those classes
+- Don't keep unwanted variables.
+- use Playwright mcp server to verify/debug your changes when asked
